@@ -1,0 +1,27 @@
+_repo: Hadrian-the-Seventh_67369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolfe, Frederick
+    gutenberg_agent_id: '54232'
+    url: http://www.gutenberg.org/2009/agents/54232
+description: ''
+gutenberg_issued: '2022-02-10'
+identifiers:
+  gutenberg: '67369'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uiug.30112047331449
+pgterms:marc905: 20190827040312rolfe
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Tim Lindell, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Chatto & Windus,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hadrian the Seventh
+url: http://www.gutenberg.org/ebooks/67369
